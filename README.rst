@@ -9,7 +9,7 @@ without modification.
 .. contents::
    :local:
 
-Screen shots
+Screenshots
 ============
 
 .. image:: https://raw.github.com/workonand/django-admin/master/doc_src/screenshots/login.png
